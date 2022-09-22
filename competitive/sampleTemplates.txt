@@ -1,0 +1,229 @@
+# HTB Challenges
+seethesharpflag: HTB{MyPasswordIsVerySecure} <br>
+diogene's rage: HTB{r4c3_w3b_d3f34t_c0nsum3r1sm} <br>
+Auth-or-out: HTB{expl01ting_cust0m_h3ap_4_fun_3_pr0f1t} <br>
+BabyCachedView: HTB{reb1nd1ng_y0ur_dns_r3s0lv3r_0n3_qu3ry_4t_4_t1m3}
+Trace: HTB{MU171P13X1N9_4ND_PC85_FUND1M3N7415_37} ()<br>
+Waiting list : HTB{t3ll_m3_y0ur_s3cr37_w17h0u7_t3ll1n9_m3_y0ur_s3cr37_1fam31l} <br>
+Manager: HTB{b4d_p@ss_m4n@g3m3nT_@pp}
+Needle: HTB{4_hug3_blund3r_d289a1_!!} <br>
+Nginxatsu : HTB{PD0's_br34th1ng_1nt3s1f13s!} ()<br>
+LostKey : HTB{uns4f3_3ll1pt1c_curv3s_l3d_t0_th3_c0ll4ps3_0f_0u7l4nd1s} ()<br>
+Phonebook : HTB{d1rectory_h4xx0r_is_k00l} ()<br>
+Query : HTB{fOuNd_cL4r1ty_iN_0bfUscaT!oN} ()<br>
+Hackybird : HTB{game_h3kk1n_is_funsies!} (https://jopraveen.wordpress.com/2021/01/13/hacky-bird/)<br>
+Mr Burns HTB{wh3n_l1f3_g1v3s_y0u_🍊_4nd_f4st-cg1...} ()<br>
+vmcrack: HTB{V1RTU4L_M4CH1N35_G035_BRRRRRR!11!1!1!} ()<br>
+racecar: HTB{why_d1d_1_s4v3_th3_fl4g_0n_th3_5t4ck?!} ()<br>
+apkey: HTB{m0r3_0bfusc4t1on_w0uld_n0t_hurt} ()<br>
+debugging interface: HTB{d38u991n9_1n732f4c35_c4n_83_f0und_1n_41m057_3v32y_3m83dd3d_d3v1c3!!52} ()<br>
+factory: HTB{14dd32_1091c_15_7h3_1091c_c12cu175_f02_1ndu572141_5y573m5} ()<br>
+signals: HTB{5l0w-5c4n_73l3v1510n_h4m_r4d10_h4ck3r} ()<br>
+wander: HTB{w4lk_4nd_w0nd3r} ()<br>
+don't overeact: HTB{23m41n_c41m_4nd_d0n7_0v32234c7} ()<br>
+wheather app: HTB{w3lc0m3_t0_th3_p1p3_dr34m} ()<br>
+loveTok: HTB{wh3n_l0v3_g3ts_eval3d_sh3lls_st4rt_p0pp1ng} ()<br>
+Toxic: HTB{P0i5on_1n_Cyb3r_W4rF4R3?!} ()<br>
+petpet rcbee: HTB{c0mfy_bzzzzz_rcb33s_v1b3s} ()<br>
+Bad Grades: HTB{c4n4ry_1s_4fr41d_0f_s1gn3d_numb3r5} ()<br>
+rlotto: HTB{n3v3r_u53_pr3d1c74bl3_533d5_1n_p53ud0-r4nd0m_numb3r_63n3r470r} ()<br>
+format: HTB{mall0c_h00k_f0r_th3_w1n!} ()<br>
+space: HTB{sh3llc0de_1n_7h3_5p4c3} ()<br>
+Antidote:HTB{Th4nk_y0u_f0r_h3lp1ng_m3_w1th_th4t_bug!Y0u_s4ved_my_arm} ()<br>
+Query: HTB{fOuNd_cL4r1ty_iN_0bfUscaT!oN} ()<br>
+forget me not : HTB{W3lL_i_KN0w_mY_M3m0RY_i5_5h4tT3R3d} ()<br>
+baby Encrytptio: HTB{l00k_47_y0u_r3v3rs1ng_3qu4710n5_c0ngr475} ()<br>
+Cryptohorrific HTB{%SoC00l_H4ckTh3b0xbyBs3cur31stCh4ll3ng3!!Cr4zY%} ()<br>
+Cat HTB{ThisBackupIsUnprotected} ()<br>
+Outrun HTB{h4ck1n9_c425_15_n07_7h47_h42d_4f732411!} ()<br>
+Bounty Head HTB{00h 42.7m, +41° 16′} ()<br>
+Mission Pinpossible HTB{84d_d3519n_c4n_134d_70_134k5!d@} ()<br>
+slippy: HTB{i_slipped_my_way_to_rce} (https://an00brektn.github.io/uni-ctf-slippy/)<br>
+Bombs Landed HTB{younevergoingtofindme} ()<br>
+Impossible Password HTB{40b949f92b86b18} ()<br>
+Find The Secret Flag HTB{decoder_stefano118_!!_} ()<br>
+Debugme HTB{Tr0lling_Ant1_D3buGGeR_trickz_R_fun!} ()<br>
+DSYM HTB{y0u_r34lly_g0t_m3} ()<br>
+Headache HTB{l4yl3_w4s_h3r3!} ()<br>
+Headache 2 HTB{r4j_1s_My_Senp4i!} ()<br>
+Baby RE HTB{B4BY_R3V_TH4TS_EZ} ()<br>
+Bypass HTB{SuP3rC00lFL4g} ()<br>
+Poly HTB{7h1s_3LF_15_A_Po1yGl0T} ()<br>
+Exatlon HTB{l3g1c3l_sh1ft_l3ft_1nsr3ct1on!!} ()<br>
+Nostalgia HTB{GBA_RuLeZ_DudE} ()<br>
+Keys HTB{N0t_A_Fl1g!} ()<br>
+Mission Impossible HTB{wh0_1s_Th1s_bl3ichenb3Cker_f3ll4} ()<br>
+Bank heist HTB{GORETIREMENTFUND!!} ()<br>
+Call HTB{IKNOWTHINGSLIKEDTMF} ()<br>
+Decode Me!! HTB{U_g0t_th1$} ()<br>
+August HTB{Dv0r4k_1z_MyD00D} ()<br>
+Optimus Prime HTB{3uc1id_w4z_th3_pr1me_h4x0r} ()<br>
+Walzer HTB{D3r \/\/4LZ3r 1$7 31|\| p44r74|\|Z 1/\/\ 3/4-74|<7. } ()<br>
+Templed HTB{M0Nks_kN3w!} ()<br>
+RsaCtfTool HTB{pl4y1ng_w1th_pr1m3s_1s_fun!} ()<br>
+Flipping_Bank HTB{b1t_fl1pp1ng_1s_c00l} ()<br>
+Digital Cube HTB{QR_!snt_d34d} ()<br>
+Forest HTB{AmAz1nGsKilLzZBr0} ()<br>
+Pusheen Loves Graphs HTB{fUn_w17h_CFGz} ()<br>
+Retro HTB{r3tr0-1s-4l1v3} ()<br>
+Senseless Behaviour Behaviour HTB{blindasabat} ()<br>
+Not Art HTB{I_tOlD_yOu_ThAt_ThIs_WaS_nOt_ArT_nOr_PiEt!!} ()<br>
+Massacre HTB{m4k3_p1xels_n0t_war!} ()<br>
+Unprintable HTB{c0mpr3ss3d_RL3_br41nfuck_1s_n0t_fun} ()<br>
+Image Processing 101 HTB{Scr!pt_K!dd!e_Pr00f_DFT} ()<br>
+BlackSquare HTB{LE4RNMOR5ECOOO00D3} ()<br>
+Ropme HTB{r0p_m3_if_y0u_c4n!} ()<br>
+ropmev2 HTB{r0t_r0p_4nd_p0p} ()<br>
+Little Tommy HTB{I_am_so_heaped_up_right_now} ()<br>
+Space HTB{sh3llc0de_1n_7h3_5p4c3} ()<br>
+Dream Diary: Chapter 1 HTB{Singl3?_NO!_D0ubl3?_NO!_Tr1pl3_Unsaf3_Unlink} ()<br>
+Dream Diary: Chapter 2 HTB{wh@t_Th3_fuck_!s_NULL_byt3_p01sOn!ng??? ()<br>
+Dream Diary: Chapter 3 HTB{m0d3rN_Nu11_bYT3+s3cC0mP_b1@Ck1i5t1Ng=>n0t_s0_S@f3!!!} ()<br>
+Old Bridge HTB{q4i1q3_i1i3_p0a_a01} ()<br>
+Kernel Adventures: Part 1 HTB{C0ngr4ts_y0u_3xpl0it3d_A_D0uBlE-FeTcH} ()<br>
+You know 0xDiablos HTB{0ur_Buff3r_1s_not_healthy} ()<br>
+No Return HTB{y0uv3_35c4p3d_7h3_v01d_0f_n0_r37urn} ()<br>
+Sick Rop HTB{why_st0p_wh3n_y0u_cAn_s1GRoP!?} ()<br>
+Hunting HTB{H0w_0n_34rth_d1d_y0u_f1nd_m3?!?} ()<br>
+I know Mag1k HTB{Padd1NG_Or4cl3z_AR3_WaY_T0o_6en3r0ys_ArenT_tHey???} ()<br>
+Grammar HTB{TypejugAlingSOulS} ()<br>
+Lernaean HTB{l1k3_4_b0s5_s0n} ()<br>
+Emdee five for life HTB{N1c3_ScrIpt1nG_B0i!} ()<br>
+FreeLancer HTB{s4ff_3_1_w33b_fr4__l33nc_3} ()<br>
+interdimensional internet HTB{d1d_y0u_h4v3_FuN_c4lcul4t1nG_Th3_d4rK_m4tt3r?!} ()<br>
+Under Construction HTB{d0n7_3xp053_y0ur_publ1ck3y} ()<br>
+Console HTB{PhP!Cons0lE@ByTh3K+FoUnd+} ()<br>
+wafwaf HTB{w4f_w4fing_my_w4y_0utt4_h3r3} ()<br>
+baby ninja jinja HTB{b4by_ninj4s_d0nt_g3t_qu0t3d_0r_c4ughT} ()<br>
+ImageTok HTB{I_34T_ph4r_c3r34L_4nD_g0ph3r_f0r_br34kf4st_4nd_d1nn3r} ()<br>
+breaking grad HTB{l00s1ng_t3nur3_l1k3_it5_fr1d4y_m0rn1ng} ()<br>
+nginxatsu HTB{PD0's_br34th1ng_1nt3s1f13s!} ()<br>
+Templated HTB{t3mpl4t3s_4r3_m0r3_p0w3rfu1_th4n_u_th1nk!} ()<br>
+Phonebook HTB{d1rectory_h4xx0r_is_k00l} ()<br>
+ezpz HTB{T0oE4syP34syL4m3SQLiF!lt3rs} ()<br>
+0ld is g0ld HTB{R1PSAMU3LM0RS3} ()<br>
+misDIRection HTB{DIR3ctLy_1n_Pl41n_Si7e} ()<br>
+Eternal loop HTB{z1p_and_unz1p_ma_bruddahs} ()<br>
+longbottom's Locker HTB{n3v1LL3_Da_burM3s3-pyth0n_sL4y3r} ()<br>
+Blackhole HTB{N3veR_l3T_tH3_b4sTaRd5_G3t_Y0u_d0wN} ()<br>
+Matrioshka HTB{S4vv4_M4mont0v_} ()<br>
+Crooked Croockford HTB{allthosenumbers} ()<br>
+ExploitedStream HTB{0fbuSc4t1ng_1s_N0t_s3curE,1s_IT???} ()<br>
+M0rsarchive HTB{D0_y0u_L1k3_m0r53??} ()<br>
+Crime HTB{Wh0_w4nt5_t0_l34rn_4n4Ly71c_g30m3try?} ()<br>
+QuickR HTB{@lriGh7_1_tH1nK_y0u`r3_QuickR_s0ldi3r} ()<br>
+The secret of a Queen HTB{THEBABINGTONPLOT} ()<br>
+Deterministic HTB{4ut0M4t4_4r3_FuUuN_4nD_N0t_D1fF1cUlt!!} ()<br>
+Query HTB{fOuNd_cL4r1ty_iN_0bfUscaT!oN} ()<br>
+Canvas HTB{W3Lc0m3_70_J4V45CR1p7_d30bFu5C4710N} ()<br>
+Reminiscent HTB{$_j0G_y0uRM3m0rY$} ()<br>
+Blue Shadow HTB{A862BC50162B5BFA6ED8167898E843E4} ()<br>
+Took the Byte HTB{27AjFDkqi1wJ} ()<br>
+USB Ripper HTB{mychemicalromance} ()<br>
+Obscure HTB{pr0tect_y0_shellZ} ()<br>
+Illumination HTB{v3rsi0n_c0ntr0l_am_I_right?} ()<br>
+Forget me not HTB{W3lL_i_KN0w_mY_M3m0RY_i5_5h4tT3R3d} ()<br>
+oBfsC4t10n HTB{g0_G3t_th3_ph1sh3R} ()<br>
+oBfsC4t10n2 HTB{eXc3l_4.0_M4cr0s_r_b4cK} ()<br>
+MarketDump HTB{DonTRuNAsRoOt!MESsEdUpMarket} ()<br>
+Window's Infinity Edge HTB{Tr0lling_Ant1_D3buGGeR_trickz_R_fun!} ()<br>
+emo HTB{4n0th3R_d4Y_AnoThEr_pH1Sh} ()<br>
+Easy Phish HTB{RIP_SPF_Always_2nd_F1ddl3_2_DMARC} ()<br>
+Infiltration HTB{Y0ur_Enum3rat10n_1s_Str0ng_Y0ung_0ne} ()<br>
+We Have a Leak HTB{Sav3_The_Startup_Sav3_The_W0rld_#Hiro} ()<br>
+Breach HTB{P4ssw0rd_Br3ach3s_C4n_B3_A_Tr3asur3_Trov3_0f_Inf0rmati0n} ()<br>
+Kryptic Ransomware HTB{Stop_Ge0tagg1ng_your_Phot0s} ()<br>
+Missing in Action HTB{J4Va_c0St_M3_m0r3_than_1_th0ugh7} ()<br>
+Moneyflowz HTB{CryPt0Curr3ncy_1s_FuNz!!} ()<br>
+ID Exposed TB{i_W4S_D_I_S_c_O_v_3_R_3_D} ()<br>
+Block Hunt3r HTB{H4v1ngFuN::W1tH-th3;d0ubl3-edg3d::Sw0Rd$$} ()<br>
+Mission Pinpossible HTB{84d_d3519n_c4n_134d_70_134k5!d@}[/hide] ()<br>
+Senseless Behaviour HTB{bindasabat} ()<br>
+Fuzzy HTB{h0t_fuzz3r} ()<br>
+Baby Ninja Jinja HTB{b4by_bl1nd_ninj4s_d0nt_g3t_qu0t3d_0r_c4ughT} ()<br>
+ImageTok HTB{I_34T_ph4r_c3r34L_4nD_g0ph3r_f0r_br34kf4st} ()<br>
+We have a leak HTB{Sav3_The_Startup_Sav3_The_W0rld#Hiro} ()<br>
+Missing in Action {J4Va_c0St_M3_m0r3_than_1_th0ugh7} ()<br>
+Money Flowz HTB{CryPt0Curr3ncy_1s_FuNz!!} ()<br>
+ID xposed HTB{i_W4S_D_I_S_c_O_v_3_R_3_D} ()<br>
+Flippin Bank HTB{b1t_fl1pp1ng_1s_c00l} ()<br>
+LostKey HTB{uns4f3_3ll1pt1c_curv3s_l3d_t0_th3_c0ll4ps3_0f_0u7l4nd1s} ()<br>
+TwoForOne HTB{C0mmon_M0dUlu5S_1S_b4D} ()<br>
+xorxorxor HTB{rep34t3d_x0r_n0t_s0_s3cur3} ()<br>
+Senseless Behaviour HTB{blindasabat} ()<br>
+Dream Diary: Chapter 2 HTB{wh@t_Th3_fuck_!s_NULL_byt3_p01sOn!ng???} ()<br>
+What does the f say? HTB{th3_f_s4ys_f0rm4t_str1ng!!} ()<br>
+Format HTB{mall0c_h00k_f0r_th3_w1n!} ()<br>
+Toxin HTB{tc4ch3_t0x1n4t10n???_0r_tc4ch3_p01So1n1NG??+F0rm4t...4m@ZiNg!!!} ()<br>
+Mr. Burns HTB{wh3n_l1f3_g1v3s_y0u_🍊_4nd_f4st-cg1...} ()<br>
+Longbottom's Locker HTB{n3v1LL3_Da_burM3s3-pyth0n_sLay3r} ()<br>
+Reminiscent HTB{$_j0G_y0uR_M3m0rY_$} ()<br>
+oBfsC4t10n2 HTB{n0w_eXc3l_4.0_M4cr0s_r_b4cK} ()<br>
+Window's Infinity Edge HTB{F1n4lly_y0u_cr0ss3d_th3_edg3!} ()<br>
+ID Exposed HTB{i_W4S_D_I_S_c_O_v_3_R_3_D} ()<br>
+Bare Metal HTB{817_84n91n9_15_3v32ywh323!@#$%} ()<br>
+Out of Time HTB{c4n7_h1d3_f20m_71m3} (https://an00brektn.github.io/uni-ctf-out-of-time/) <br>
+Dont Overreact HTB{23m41n_c41m_4nd_d0n7_0v32234c7} <br>
+gunship HTB{wh3n_lif3_g1v3s_y0u_p6_st4rT_p0llut1ng_w1th_styl3!!} <br>
+rauth HTB{I_Kn0w_h0w_t0_5al54} (https://medium.com/@filipedeluna/htb-rauth-reversing-write-up-5f7b7393a1a7) <br>
+RSAisEasy HTB{1_m1ght_h4v3_m3ss3d_uP_jU$t_4_l1ttle_b1t?}
+lost modulus HTB{n3v3r_us3_sm4ll_3xp0n3n7s_f0r_rs4} <br>
+lunacrypt HTB{Lun4_Lu4_L4t1n_M00n} <br>
+Fibopadcci HTB{cU5t0m_p4dd1Ng_w0nT_s4v3_y0u_tH1s_T1m3_:(!@} <br>
+Rookie Mistake HTB{why_d1d_y0u_m3ss_3v3ryth1ng_up_1ts_n0t_th4t_h4rd_ju5t_us3_pr0p3r_p4r4m3t3rs_f0r_4ny_crypt0syst3m...} <br>
+broken decryptor HTB{1V_r3u$3#!} <br>
+composition HTB{Pr1M3_Pr0x1mIty_@nD_C0mP0s1T3_CuRv3?????=>s0_1nS3cUr3!!!} <br>
+pneumatic validator HTB{pN3Um4t1C_l0g1C} <br>
+restraunt HTB{r3turn_2_th3_r3st4ur4nt!} <br>
+Sigma Technology: HTB{0ne_tw0_thr33_f0ur_f1v3_p1xel_attack} <br>
+Nuclear Sale HTB{s3cr3t_sh4r1ng_w1th_x0r_15_l4m3} <br>
+
+# HTB Endgames/Fortress Flags
+//JET ()<br>
+Connect JET{s4n1ty_ch3ck} ()<br>
+Digging in... JET{w3lc0me_4nd_h@v3_fun!} ()<br>
+Going Deeper JET{s3cur3_js_w4s_not_s0_s3cur3_4ft3r4ll} ()<br>
+Bypassing Authentication JET{sQl_1nj3ct1ons_4r3_fun!} ()<br>
+Command JET{pr3g_r3pl4c3_g3ts_y0u_pwn3d} ()<br>
+Overflown JET{0v3rfL0w_f0r_73h_lulz} ()<br>
+Secret Message JET{r3p3at1ng_ch4rs_1n_s1mpl3_x0r_g3ts_y0u_0wn3d} ()<br>
+Elasticity JET{3sc4p3_s3qu3nc3s_4r3_fun} ()<br>
+Member Manager JET{h34p_f0r_73h_b4bi3z} ()<br>
+More Secrets JET{n3xt_t1m3_p1ck_65537} ()<br>
+Memo JET{7h47s_7h3_sp1r17} ()<br>
+//Akerva ()<br>
+Plain Sight AKERVA{Ikn0w_F0rgoTTEN#CoMmeNts} ()<br>
+Take a Look Around AKERVA{IkN0w_SnMP@@@MIsconfigur@T!onS} ()<br>
+Dead Poets AKERVA{IKNoW###VeRbTamper!nG_==} ()<br>
+Now You See Me AKERVA{1kn0w_H0w_TO_$Cr1p_T_$$$$$$$$} ()<br>
+Open Book AKERVA{IKNOW#LFi_@_} ()<br>
+Say Friend and Enter AKERVA{IkNOW#=ByPassWerkZeugPinC0de!} ()<br>
+Super Mushroom AKERVA{IkNow_Sud0_sUckS!} ()<br>
+Little Secret AKERVA{IKNOOOWVIGEEENERRRE} ()<br>
+//Context ()<br>
+But we have SSL!? CONTEXT{s3cur1ty_thr0ugh_0bscur1ty} ()<br>
+That shouldn't be there... CONTEXT{d0_it_st0p_it_br34k_it_f1x_it} ()<br>
+Have we met before? CONTEXT{wh00000_4re_y0u?} ()<br>
+Is it a bird? Is it a plane? CONTEXT{uNs4fe_deceri4liz3r5?!_th33333yre_gr8} ()<br>
+This looks bad! CONTEXT{g1mm2_g1mm3_g1mm4_y0ur_cr3d1t} ()<br>
+It's not a backdoor, it's a feature CONTEXT{l0l_s0c3ts_4re_fun} ()<br>
+Key to the castle CONTEXT{OU_4bl3_t0_k33p_4_s3cret?} ()<br>
+// RPG ()<br>
+would you like to play a game? = RPG{c0waBuNg@!_Ssrf1n_iNtO_tHe_1nt3rn@l!} ()<br>
+Sword and mind = RPG{h1j@ckinlyk@_pir@t3} , RPG{h1j@ckin_lyk_@_pir@t3} ()<br>
+one's act, one's profit = RPG{n0thing_1s_h1dd3n_fr0m_r00t!} ()<br>
+The source of power = RPG{L3v31iNg_uP_2_t3h_b0$$_m0d3} ()<br>
+Wake from death and turn to life = RPG{l3ave_my_hash3s_al0ne!} ()<br>
+Collapse of the empire = RPG{WhY_w0rK_h@rD_Wh3N_U_c@N_d3l3g@7e?} ()<br>
+//ASCENSION ()<br>
+ASCENSION{y0ur_4gent_is_oUr_aG3n7} ()<br>
+ASCENSION{N0_c0mm@nd_1s_saf3} ()<br>
+ASCENSION{15nT_dPaP1_s3cuRe?} ()<br>
+ASCENSION{0G_adm1ni5tR@tor} ()<br>
+ASCENSION{n0t_so_s3cR3t_H1sToRy} ()<br>
+ASCENSION{sL4ck1ng_0n_enCrypt1oN} ()<br>
+ASCENSION{g0t_a1L_7h3_ac3s} ()<br>
+// SNACKTIV <br>
+SYNACKTIV{Br34K_Th3_@pp_1Nt0_Fr4gM3NtS} <br>
+SYNACKTIV{TrY_t0_m0n1t0r_My_g@dG3T5} <br>
+SYNACKTIV{m0r3_L1k3_Crypt0F@1l!} <br>
